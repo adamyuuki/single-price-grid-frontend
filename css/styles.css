@@ -37,6 +37,7 @@ div,p{
   max-height: 40rem;
   -webkit-box-shadow: 0px 0px 22px 17px rgba(202,211,216,0.95);
   box-shadow: 0px 0px 22px 17px rgba(202,211,216,0.95);
+  border-radius: 6px;
   /* -webkit-box-shadow: 0px 0px 24px 1px rgba(0,0,0,0.39);
   box-shadow: 0px 0px 24px 1px rgba(0,0,0,0.39); */
 }
@@ -180,6 +181,7 @@ div,p{
     max-width: 21rem;
     max-height: none;
     margin-top: 5rem;
+
   }
 
   .block-join{
@@ -200,6 +202,7 @@ div,p{
   .block-bottom{
     /* display: block; */
     width: 100%;
+    border-radius: 0 0 6px 6px;
   }
 
   /* footer{
